@@ -17,3 +17,6 @@ Top cuisines across cities were identified, along with restaurants offering the 
 **Dashboard Creation**
 
 Insights were presented through an interactive Tableau dashboard, visualizing locations, cuisines, costs, and ratings to support easy exploration and identification of star restaurants for recommendations.
+
+Tabulue Dashbaord link : https://public.tableau.com/app/profile/vivek.kumar.gautam8485/viz/shared/NX54SPTQD
+
